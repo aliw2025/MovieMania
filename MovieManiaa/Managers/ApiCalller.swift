@@ -11,7 +11,7 @@ import Foundation
 
 
 struct constant {
-    static let API_kEY = "2bd360f927a0cc6ebbdf4b0a1ed86d82";
+    static let API_kEY = "";
     static let baseUrl = "https://api.themoviedb.org"
 }
 
